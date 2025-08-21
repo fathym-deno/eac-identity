@@ -1,4 +1,4 @@
-export type EaCRelyingPartyDetails = {
+export type EaCUserAccessCard = {
   AccessConfigurationLookup: string;
 
   Username: string;
