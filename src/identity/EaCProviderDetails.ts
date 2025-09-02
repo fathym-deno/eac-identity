@@ -7,6 +7,8 @@ export type EaCProviderDetails = {
 
   IsPrimary?: boolean;
 
+  OAuthBase?: string;
+
   Scopes: string[];
 } & EaCVertexDetails;
 
