@@ -5,6 +5,4 @@ export type EaCAccessConfigurationAsCode = {
   AccessRightLookups?: string[] | null;
 
   ProviderLookups?: string[] | null;
-
-  Usernames?: string[] | null;
 } & EaCDetails<EaCAccessConfigurationDetails>;
