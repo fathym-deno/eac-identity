@@ -1,7 +1,4 @@
-import {
-  EaCProviderDetails,
-  isEaCProviderDetails,
-} from "./EaCProviderDetails.ts";
+import { EaCProviderDetails, isEaCProviderDetails } from "./EaCProviderDetails.ts";
 
 export type EaCAzureADB2CProviderDetails = {
   Domain: string;
