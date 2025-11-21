@@ -1,4 +1,7 @@
-import { EaCProviderDetails, isEaCProviderDetails } from "./EaCProviderDetails.ts";
+import {
+  EaCProviderDetails,
+  isEaCProviderDetails,
+} from "./EaCProviderDetails.ts";
 
 export type EaCGitHubAppProviderDetails = {
   AppID: string;
