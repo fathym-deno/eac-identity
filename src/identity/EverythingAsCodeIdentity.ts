@@ -1,6 +1,6 @@
 import { EaCProviderAsCode } from "./EaCProviderAsCode.ts";
 import type { EaCAccessRightAsCode } from "./EaCAccessRightAsCode.ts";
-import { EaCAccessConfigurationAsCode } from "@fathym/eac-identity";
+import { EaCAccessConfigurationAsCode } from "./EaCAccessConfigurationAsCode.ts";
 
 /**
  * The Identity spec used for tracking authentication and authorization configurations.
